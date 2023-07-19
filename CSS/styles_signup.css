@@ -1,0 +1,14 @@
+.gap
+{
+    margin-right:20px;
+}
+@media (min-width:1200px) {
+    .img{
+        margin-left: 100px;
+        height: 500px;
+        width:550px;
+    }
+    
+}
+
+
